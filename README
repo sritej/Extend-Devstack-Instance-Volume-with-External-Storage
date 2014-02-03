@@ -1,0 +1,1 @@
+This is an automated script that mounts the external storage on to a loopback device and then creates a physical volume with in the Devstack Volume Group. Thus enabling us to add any sized volume to the devstack instance 
